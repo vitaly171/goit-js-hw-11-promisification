@@ -1,0 +1,23 @@
+{
+  "name": "goit-js-hw-11-promisification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel *.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitaly171/goit-js-hw-11-promisification.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitaly171/goit-js-hw-11-promisification/issues"
+  },
+  "homepage": "https://github.com/vitaly171/goit-js-hw-11-promisification#readme",
+  "devDependencies": {
+    "prettier": "2.4.1"
+  }
+}
